@@ -1,3 +1,6 @@
+# This code is only for pretest
+Part 2 Question 1
+
 # AngularPretest
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5.
